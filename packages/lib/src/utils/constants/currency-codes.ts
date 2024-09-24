@@ -28,7 +28,7 @@ const CURRENCY_CODES = {
     BYR: 'p.',
     BYN: 'Br',
     BZD: 'BZ$',
-    CAD: '$',
+    CAD: 'C$',
     CDF: 'FC',
     CHF: 'Fr.',
     CLP: '$',
